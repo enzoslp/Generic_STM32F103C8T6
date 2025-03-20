@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=CAN_P Pin=J8-1
+Removed Pin From Net: NetName=CAN_N Pin=J8-2
+Added Pin To Net: NetName=CAN_N Pin=J8-1
+Added Pin To Net: NetName=CAN_P Pin=J8-2
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0.508mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0.508mm New=0mm

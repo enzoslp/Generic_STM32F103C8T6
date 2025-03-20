@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=CAN_TX Pin=J8-1
+Removed Pin From Net: NetName=CAN_RX Pin=J8-2
+Added Component: Designator=C8(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing Part Number"; Value = "C0805C104J5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "399-1171-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing Part Number"; Value = "C0805C104J5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "399-1171-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(NXP-SOIC-8_L)
+Add component (AddParameter): Name = "Category"; Value = "Transceiver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Rate"; Value = "1Mbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.nxp.com/documents/data_sheet/TJA1051.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 01/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DELETED"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.nxp.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Transceivers"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage (Max)"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage (Min)"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage (Typ)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature (Max)"; Value = "125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature (Min)"; Value = "-40C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Classification"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "8-Pin Small Outline Integrated Circuit, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SOT96-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Down Mode"; Value = "Normal/Silent"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rad Hardened"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Supported"; Value = "ISO11898-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current"; Value = "70mA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+3V3 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+5V Pin=C9-2
+Added Pin To Net: NetName=CAN_TX Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=+5V Pin=U3-3
+Added Pin To Net: NetName=CAN_RX Pin=U3-4
+Added Pin To Net: NetName=+3V3 Pin=U3-5
+Added Pin To Net: NetName=CAN_N Pin=J8-2
+Added Pin To Net: NetName=CAN_N Pin=R7-1
+Added Pin To Net: NetName=CAN_N Pin=U3-6
+Added Net: Name=CAN_N
+Added Pin To Net: NetName=CAN_P Pin=J8-1
+Added Pin To Net: NetName=CAN_P Pin=R7-2
+Added Pin To Net: NetName=CAN_P Pin=U3-7
+Added Net: Name=CAN_P
+Added Pin To Net: NetName=CAN_S Pin=U1-41
+Added Pin To Net: NetName=CAN_S Pin=U3-8
+Added Net: Name=CAN_S
+Added Differential Pair: Name=CAN

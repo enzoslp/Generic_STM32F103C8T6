@@ -1,0 +1,28 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [STM_BLUEPILL.PrjPcb]
+   Generated File[STM_BLUEPILL_Copper_Signal_Top.gbr]
+   Generated File[STM_BLUEPILL_Copper_Signal_1.gbr]
+   Generated File[STM_BLUEPILL_Copper_Signal_2.gbr]
+   Generated File[STM_BLUEPILL_Copper_Signal_Bot.gbr]
+   Generated File[STM_BLUEPILL_Pads_Bot.gbr]
+   Generated File[STM_BLUEPILL_Pads_Top.gbr]
+   Generated File[STM_BLUEPILL_Paste_Bot.gbr]
+   Generated File[STM_BLUEPILL_Legend_Bot.gbr]
+   Generated File[STM_BLUEPILL_Soldermask_Bot.gbr]
+   Generated File[STM_BLUEPILL_Legend_Top.gbr]
+   Generated File[STM_BLUEPILL_Paste_Top.gbr]
+   Generated File[STM_BLUEPILL_Soldermask_Top.gbr]
+   Generated File[STM_BLUEPILL_Profile.gbr]
+   Generated File[STM_BLUEPILL_NPTH_Drill.gbr]
+   Generated File[STM_BLUEPILL_PTH_Drill.gbr]
+   Generated File[STM_BLUEPILL_Drawing_1.gbr]
+   Generated File[STM_BLUEPILL_Drillmap_1.gbr]
+   Generated File[STM_BLUEPILL.EXTREP]
+   Generated File[STM_BLUEPILL.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 17:00:49 On 14/03/2025

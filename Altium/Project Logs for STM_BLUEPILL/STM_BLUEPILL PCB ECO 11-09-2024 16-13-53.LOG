@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+3V3 Pin=LED1-A
+Removed Pin From Net: NetName=+3V3 Pin=LED2-A
+Added Component: Designator=D1(LED_0402_GREEN)
+Added Component: Designator=D2(LED_0402_BLUE)
+Added Pin To Net: NetName=+3V3 Pin=D1-A
+Added Pin To Net: NetName=+3V3 Pin=D2-A
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=NetD1_K Pin=R3-2
+Added Net: Name=NetD1_K
+Added Pin To Net: NetName=NetD2_K Pin=D2-K
+Added Pin To Net: NetName=NetD2_K Pin=R4-2
+Added Net: Name=NetD2_K
